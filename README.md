@@ -16,4 +16,6 @@ This project involves training a simple Convolutional Neural Network (CNN) to cl
 Run Streamlit server:
 ```streamlit run app.py```
 
-![Classifier GUI](/assets/landing_screenshot.png)
+<p align="center">
+  <img src="https://github.com/Pazuzzu/X-ray_classifier/blob/main/assets/landing_screenshot.png?raw=true" alt="Classifier GUI"/>
+</p>
